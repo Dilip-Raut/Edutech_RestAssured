@@ -1,0 +1,23 @@
+
+{
+  "students": {
+    "name": "Alice Brown",
+    "email": "alice@student.com",
+    "course": "Computer Science"
+  },
+  "courses": {
+    "courseName": "Java Automation",
+    "duration": "6 Months",
+    "fee": 5000
+  },
+  "fees": {
+    "studentId": 1,
+    "amount": 5000,
+    "status": "PAID"
+  },
+  "faculty": {
+    "name": "Dr. Smith",
+    "email": "smith@faculty.com",
+    "department": "Engineering"
+  }
+}
